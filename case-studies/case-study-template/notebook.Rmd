@@ -1,0 +1,34 @@
+---
+title: "Case Study Title"
+author: "Your Name"
+date: ""
+output: html_document
+---
+
+# Case Study Summary
+
+Short summary of the case study.
+
+## 1. Problem Definition
+
+Describe the actuarial problem being addressed.
+
+## 2. Data Description
+
+Describe the dataset used and any preprocessing steps.
+
+
+
+## 3. Modeling Approach
+
+Explain the AI/ML methods applied.
+
+
+
+## 4. Results
+
+Present findings and model performance metrics.
+
+## 5. Conclusion
+
+Summarize insights, limitations, and next steps.
